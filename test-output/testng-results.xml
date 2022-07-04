@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16684" started-at="2022-06-23T07:24:08Z" finished-at="2022-06-23T07:24:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16684" started-at="2022-06-23T07:24:08Z" finished-at="2022-06-23T07:24:25Z">
+      <class name="ElearningProject.ElearnCucumber.elearn">
+        <test-method status="PASS" signature="testcase()[pri:2, instance:ElearningProject.ElearnCucumber.elearn@3f3afe78]" name="testcase" duration-ms="16675" started-at="2022-06-23T12:54:08Z" finished-at="2022-06-23T12:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- ElearningProject.ElearnCucumber.elearn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
